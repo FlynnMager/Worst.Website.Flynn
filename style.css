@@ -1,0 +1,56 @@
+.link{
+    float:right;
+    font-size: 30px;
+}
+.title{
+    color:white;
+    position: fixed;
+}
+
+#homeTitle{
+    position: absolute;
+    font-size: 50px;
+    left:45%;
+    border-color: aqua;
+    border-style: double;
+}
+.text1{
+    font-size: 150px;
+    color: yellow;
+}
+#title3{
+    border-style: dotted;
+    border-color: green;
+    position: absolute;
+    font-size:50px;
+    left:30%;
+    padding: 15px;
+}
+.image{
+    margin:20px;
+}
+.text2{
+    display: inline;
+    margin: 75px;
+    position: relative;
+    top:400px;
+    color: blue;
+    font-size: 100px;
+}
+.text3{
+    display: inline-block;
+    background: blue;
+    color: black;
+    padding-left: 75px;
+    padding-right: 75px;
+    font-size: 100px;
+    position: relative;
+    top:150px;
+}
+#page1title{
+    position: absolute;
+    font-size:50px;
+    left:45%;
+    border-color: blue;
+    border-style: dashed;
+}
